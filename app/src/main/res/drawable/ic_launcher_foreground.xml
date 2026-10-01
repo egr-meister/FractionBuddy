@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- divided circle: three of four quarters shaded -->
+    <path android:fillColor="#6F8FB8" android:pathData="M40,54 L40,37 A17,17 0 1,1 23,54 Z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M40,54 L23,54 A17,17 0 0,1 40,37 Z" />
+    <path android:strokeColor="#1F2A44" android:strokeWidth="2"
+        android:pathData="M23,54 L57,54 M40,37 L40,71" />
+    <path android:strokeColor="#1F2A44" android:strokeWidth="2.2"
+        android:pathData="M40,37 A17,17 0 1,1 39.99,37" />
+    <!-- fraction symbol: 1 over 2 with a horizontal bar -->
+    <path android:strokeColor="#1F2A44" android:strokeWidth="2.6" android:strokeLineCap="round"
+        android:pathData="M70.5,39 L70.5,49 M67.5,41.5 L70.5,39" />
+    <path android:fillColor="#F4C84A" android:pathData="M63,52.5 h15 a1.5,1.5 0 0 1 0,3 h-15 a1.5,1.5 0 0 1 0,-3 z" />
+    <path android:strokeColor="#1F2A44" android:strokeWidth="2.6" android:strokeLineCap="round" android:strokeLineJoin="round"
+        android:pathData="M66.5,62 A4,4 0 1,1 73.5,64.5 L66.5,70 L74.5,70" />
+</vector>
